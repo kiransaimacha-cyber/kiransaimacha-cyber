@@ -13,9 +13,8 @@ I am a Python developer specializing in **Automation**, **Web Scraping**, and **
 *   **API Integration:** Connecting different software services together to share data seamlessly.
 
 ### 📂 Featured Projects:
-*(I am currently uploading my portfolio. Check back soon!)*
-*   🕸️ **Web Scraper:** [Coming soon  ]
-*   🤖 **File Automator:** [Coming soon ]
+*   🕸️ **Web Scraper:** 
+*   🤖 **File Automator:** 
 
 ### 📫 How to reach me:
 *   **Upwork:** [https://www.upwork.com/freelancers/~014ab88513e9f08f49?mp_source=share]
