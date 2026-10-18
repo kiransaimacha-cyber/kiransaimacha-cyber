@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Kiran 👋
 
-<!--
-**kiransaimacha-cyber/kiransaimacha-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Python developer specializing in **Automation**, **Web Scraping**, and **API Integration**. I help businesses save time by automating repetitive tasks and gathering valuable data from the web.
 
-Here are some ideas to get you started:
+### 🛠️ My Tech Stack:
+*   **Languages:** Python, SQL
+*   **Libraries & Frameworks:** BeautifulSoup, Selenium, Pandas, Requests
+*   **Tools:** Git, GitHub, REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do:
+*   **Web Scraping:** Extracting data from complex websites into clean, usable formats (CSV, Excel, JSON).
+*   **Task Automation:** Writing scripts to automate boring, repetitive digital tasks.
+*   **API Integration:** Connecting different software services together to share data seamlessly.
+
+### 📂 Featured Projects:
+*(I am currently uploading my portfolio. Check back soon!)*
+*   🕸️ **Web Scraper:** [Coming soon  ]
+*   🤖 **File Automator:** [Coming soon ]
+
+### 📫 How to reach me:
+*   **Upwork:** [https://www.upwork.com/freelancers/~014ab88513e9f08f49?mp_source=share]
+*   **Email:** [kiransaimacha@gmail.com]
+
+---
+*Currently available for freelance projects.*
